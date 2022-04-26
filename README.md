@@ -41,4 +41,11 @@
 ![hernanf5's github stats](https://github-readme-stats.vercel.app/api?username=hernanf5&count_private=true)
 
 
+<h3 align='left'><i>Social Media</i></h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/hernan-funes-50301421b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hernan%20Funes-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/hernanfunesl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hernanfunesl-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:funes.hernan.max@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-funes.hernan.max@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=hernanf5&label=Profile%20views&color=0e75b6&style=flat" alt="funeshernan" /> </p>
