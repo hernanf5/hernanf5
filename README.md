@@ -7,9 +7,6 @@
 
 🎓   Recently finished the FullStack MERN bootcamp.
 
-💼   Working on getting my first IT job.
-
-✍️   Pursuing the dream 😊.
 
 
 
