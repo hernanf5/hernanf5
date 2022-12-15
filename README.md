@@ -5,8 +5,6 @@
 
 🤔   Exploring new technologies and developing some projects.
 
-🎓   Recently finished the FullStack MERN bootcamp.
-
 
 
 
