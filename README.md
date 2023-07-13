@@ -32,8 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-//![hernanf5's github stats](https://github-readme-stats.vercel.app/api?username=hernanf5&count_private=true)
+![hernanf5's github stats](https://github-readme-stats.vercel.app/api?username=hernanf5&count_private=false)
 
 
 <h3 align='left'><i>Social Media</i></h3>
