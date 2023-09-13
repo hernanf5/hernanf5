@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanf5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanf5&layout=compact&theme=dracula )
 
 <h3 align='left'><i>Social Media</i></h3>
 <p align="center">
