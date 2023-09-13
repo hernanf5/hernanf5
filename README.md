@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Hernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernanf5&show_icons=true&theme=radical)
 
 <h3 align='left'><i>Social Media</i></h3>
 <p align="center">
